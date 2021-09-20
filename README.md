@@ -1,2 +1,2 @@
 # ESC-Projects
-Nothin more
+Nothing more
